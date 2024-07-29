@@ -1,0 +1,122 @@
+[
+    {
+        "id" : 1,
+         "title": "Spagehtti Carbonara", 
+         "description": "A Classic Italian Dish", 
+         "image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-square640-v2.jpg"
+    },
+    {
+        "id" : 2,
+         "title": "Cheese Burger", 
+         "description": "A hamburger with a slice of melted cheese on top of the meat patty, ", 
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHp7lAIkzHD5Rot3YyeF3vIyMOurMoJim9Ew&s"
+    },
+    {
+        "id": 3,
+        "title": "Beef Stroganoff",
+        "description": "A Russian dish with sautéed beef...",
+        "image": "https://www.allrecipes.com/thmb/mSWde3PHTu-fDkbvWBw0D1JlS8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25202beef-stroganoff-iii-ddmfs-3x4-233-0f26fa477e9c446b970a32502468efc6.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Caesar Salad",
+        "description": "A classic salad with romaine lettuce...",
+        "image": "https://www.allrecipes.com/thmb/JTW0AIVY5PFxqLrf_-CDzT4OZQY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/229063-Classic-Restaurant-Caesar-Salad-ddmfs-4x3-231-89bafa5e54dd4a8c933cf2a5f9f12a6f.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Margherita Pizza",
+        "description": "A traditional Italian pizza with tomatoes...",
+        "image": "https://foodbyjonister.com/wp-content/uploads/2020/01/MargheritaPizza.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Beef Tacos",
+        "description": "Mexican dish with seasoned beef...",
+        "image": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Pad Thai",
+        "description": "A popular Thai stir-fried noodle dish...",
+        "image": "https://www.onceuponachef.com/images/2016/03/pad-thai-760x939.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Ratatouille",
+        "description": "A French Provençal stewed vegetable dish...",
+        "image": "https://www.howtocook.recipes/wp-content/uploads/2021/05/Ratatouille-recipe.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Pho",
+        "description": "A Vietnamese soup consisting of broth...",
+        "image": "https://www.allrecipes.com/thmb/SZjdgaXhmkrRNLoOvdxuAktwk3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-authentic-pho-DDMFS-4x3-0523f6531ccf4dbeb4b5bde52e007b1e.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Paella",
+        "description": "A Spanish rice dish originally from Valencia...",
+        "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2020/04/Paella-7.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Butter Chicken",
+        "description": "A popular Indian dish of chicken in a mildly spiced tomato sauce...",
+        "image": "https://feelgoodfoodie.net/wp-content/uploads/2024/02/Easy-Butter-Chicken-TIMG.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Sushi",
+        "description": "A traditional Japanese dish of prepared vinegared rice...",
+        "image": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-%E2%80%93-Hosomaki-1106-II.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Goulash",
+        "description": "A stew of meat and vegetables seasoned with paprika and other spices...",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/goulash-index-64de8d20b97d5.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*"
+    },
+    {
+        "id": 14,
+        "title": "Fish and Chips",
+        "description": "A popular British dish consisting of fried fish and chips...",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHHPm433mUvvBm-q2EgQYWde7FukaJkTyxwQ&s"
+    },
+    {
+        "id": 15,
+        "title": "Falafel",
+        "description": "A deep-fried ball or patty made from ground chickpeas, fava beans, or both...",
+        "image": "https://feelgoodfoodie.net/wp-content/uploads/2024/03/Falafel-TIMG.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Tom Yum Soup",
+        "description": "A type of hot and sour Thai soup...",
+        "image": "https://minimalistbaker.com/wp-content/uploads/2019/01/Vegan-Tom-Yum-SQUARE.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Bibimbap",
+        "description": "A Korean rice dish with assorted vegetables, meat, and gochujang...",
+        "image": "https://www.recipetineats.com/tachyon/2019/05/Bibimbap_3.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Chili Con Carne",
+        "description": "A spicy stew containing chili peppers, meat, and often tomatoes and beans...",
+        "image": "https://img.jamieoliver.com/jamieoliver/recipe-database/46258212.jpg?tr=w-800,h-1066"
+    },
+    {
+        "id": 19,
+        "title": "Biryani",
+        "description": "A mixed rice dish with its origins among the Muslims of the Indian subcontinent...",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg/800px-%22Hyderabadi_Dum_Biryani%22.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Ramen",
+        "description": "A Japanese noodle soup dish...",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezSbS6EseXI2SONp0DFyXzxcxbQ1yShu3rQ&s"
+    }
+]
